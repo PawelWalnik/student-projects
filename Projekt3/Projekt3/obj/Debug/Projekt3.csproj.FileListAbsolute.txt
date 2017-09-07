@@ -1,0 +1,9 @@
+D:\asembler\Zadania\projekt 3\projekt 3\Projekt3\Projekt3\bin\Debug\Projekt3.exe.config
+D:\asembler\Zadania\projekt 3\projekt 3\Projekt3\Projekt3\bin\Debug\Projekt3.exe
+D:\asembler\Zadania\projekt 3\projekt 3\Projekt3\Projekt3\bin\Debug\Projekt3.pdb
+D:\asembler\Zadania\projekt 3\projekt 3\Projekt3\Projekt3\obj\Debug\Projekt3.csprojResolveAssemblyReference.cache
+D:\asembler\Zadania\projekt 3\projekt 3\Projekt3\Projekt3\obj\Debug\Projekt3.Form1.resources
+D:\asembler\Zadania\projekt 3\projekt 3\Projekt3\Projekt3\obj\Debug\Projekt3.Properties.Resources.resources
+D:\asembler\Zadania\projekt 3\projekt 3\Projekt3\Projekt3\obj\Debug\Projekt3.csproj.GenerateResource.Cache
+D:\asembler\Zadania\projekt 3\projekt 3\Projekt3\Projekt3\obj\Debug\Projekt3.exe
+D:\asembler\Zadania\projekt 3\projekt 3\Projekt3\Projekt3\obj\Debug\Projekt3.pdb
