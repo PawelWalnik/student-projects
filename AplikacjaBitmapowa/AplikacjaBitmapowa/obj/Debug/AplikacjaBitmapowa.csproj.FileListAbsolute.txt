@@ -1,0 +1,10 @@
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\bin\Debug\AplikacjaBitmapowa.exe.config
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\bin\Debug\AplikacjaBitmapowa.exe
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\bin\Debug\AplikacjaBitmapowa.pdb
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\obj\Debug\AplikacjaBitmapowa.csprojResolveAssemblyReference.cache
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\obj\Debug\AplikacjaBitmapowa.Properties.Resources.resources
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\obj\Debug\AplikacjaBitmapowa.csproj.GenerateResource.Cache
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\obj\Debug\AplikacjaBitmapowa.exe
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\obj\Debug\AplikacjaBitmapowa.pdb
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\obj\Debug\AplikacjaBitmapowa.MainForm.resources
+D:\Pawel\Projekty VS\AplikacjaBitmapowa\AplikacjaBitmapowa\obj\Debug\AplikacjaBitmapowa.Form2.resources
