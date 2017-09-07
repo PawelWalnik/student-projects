@@ -1,0 +1,5 @@
+AplikacjaBitmapowa (Bitmap Application) is a winforms app created in VS in C#. Application is used to processing bitmaps
+by disabling managed code for bitmap handling.
+
+No design pattern applied (eg. MVP), because it is a small app for computer graphics classes, in which the most important thing was the 
+correct convertion of bitmaps, not the code style.
