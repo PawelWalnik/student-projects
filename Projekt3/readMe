@@ -1,0 +1,3 @@
+Projekt3 (Project3) is a winforms app created in VS in C#, which uses the dll written in FASM. The FASM dll performs binarization of the bitmaps. Next step is to perform image erosion.
+
+Task for classes with low level programming (using a coprocessor).
